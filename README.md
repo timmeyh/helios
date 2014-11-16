@@ -5,4 +5,4 @@ monitoring tool
 
 Install
 =======
-aptitude install pyton-paramiko
+aptitude install pyton-paramiko mysql-server apache2
